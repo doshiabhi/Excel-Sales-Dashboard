@@ -4,7 +4,7 @@ An interactive Excel dashboard designed to analyze sales performance, revenue tr
 
 ## Dashboard Preview
 
-![Excel Sales Dashboard](images/sales-dashboard.png)
+![Excel Sales Dashboard](images/Screenshot 2026-10-16 205658.png)
 
 ## Project Overview
 
